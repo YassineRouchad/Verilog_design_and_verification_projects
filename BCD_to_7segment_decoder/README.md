@@ -25,12 +25,12 @@ BCD is a binary code, it stands for binary coded decimal , each decimal digit is
 
 what about 7-segment display ?
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "7segment")
+![7segment!](BCD_to_7segment_decoder/Seven-segment-display.png "7segment")
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "7segment display")
+![7segment display!](BCD_to_7segment_decoder/7segment.jpg "7segment display")
 
 it is an electronic display device often used to display digits in digital counters , clock ...etc.
 
 here we create a behavioral architecture for this decoder (i.e we build the system in terms of its function without specifying the gates and interconnection between them:
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "Decoder")
+!Decoder!](BCD_to_7segment_decoder/decoder.png "Decoder")
