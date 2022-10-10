@@ -33,4 +33,4 @@ it is an electronic display device often used to display digits in digital count
 
 here we create a behavioral architecture for this decoder (i.e we build the system in terms of its function without specifying the gates and interconnection between them:
 
-!Decoder!](BCD_to_7segment_decoder/decoder.png "Decoder")
+![Decoder!](BCD_to_7segment_decoder/decoder.png "Decoder")
